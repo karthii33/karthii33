@@ -16,7 +16,6 @@
 - 🔭 Currently working on **AI voice/chat projects with Python**
 - 🌱 Learning **Streamlit, LiveKit, and full-stack web dev**
 - 💬 Ask me about **Python, HTML/CSS, and JavaScript**
-- ⚡ Fun fact: **ADD YOUR OWN HERE**
 
 ---
 
